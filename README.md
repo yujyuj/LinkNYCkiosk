@@ -1,5 +1,5 @@
 <!-- Heading -->
-# LinkNYC kiosk Real-Time Status
+# LinkNYC Kiosk Real-Time Status
 
 An ArcGIS script tool that retrieves data via API endpoint and gets json response from [NYC Open Data LinkNYC Kiosk Status](https://data.cityofnewyork.us/City-Government/LinkNYC-Kiosk-Status/n6c5-95xh) which gets updated hourly, writes geometries to a point feature class, and finally generates a pdf map showing each kiosk’s status on top of a base map. 
 
